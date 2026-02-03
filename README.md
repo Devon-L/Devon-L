@@ -61,9 +61,8 @@ building things that **run long, stay stable, and fail safely**.
 > Public activity here reflects long-term consistency and engineering habits.
 
 <!-- GitHub Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Devon-L&show_icons=true&hide_title=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Devon-L)](https://git.io/streak-stats)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Devon-L)
 
 ---
 
