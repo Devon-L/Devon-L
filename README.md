@@ -60,7 +60,8 @@ building things that **run long, stay stable, and fail safely**.
 > Most of my work happens in **private repositories**.  
 > Public activity here reflects long-term consistency and engineering habits.
 
-<!-- GitHub Stats -->
+## 🔥 GitHub Streak
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=Devon-L)](https://git.io/streak-stats)
 
 
