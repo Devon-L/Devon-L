@@ -1,16 +1,27 @@
-## Hi there 👋
+## 👋 Hi, I'm Devon
 
-<!--
-**Devon-L/Devon-L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+DevOps / Infrastructure Engineer  
+Focus on virtualization, Kubernetes, security hardening, and production stability.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+- Linux (CentOS / Rocky / Ubuntu / SUSE)
+- VMware vSphere / ESXi
+- Kubernetes (binary deploy / kubeadm)
+- Docker / Docker Compose
+- Nginx / WAF
+- Vulnerability Scanning & Security Ops
+- Git / CI basics
+
+---
+
+## 🚀 Featured Projects
+- OpenArk – xxxx（一句话说明你解决了什么问题）
+- xxx – xxxx
+- xxx – xxxx
+
+---
+
+## 📈 GitHub Stats
+（自动统计图）
