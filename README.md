@@ -1,27 +1,81 @@
 ## 👋 Hi, I'm Devon
 
-DevOps / Infrastructure Engineer  
-Focus on virtualization, Kubernetes, security hardening, and production stability.
+Infrastructure / DevOps Engineer  
+Focus on **production environments**, **virtualization**, **Kubernetes**, and **security operations**.
+
+I work mainly on on-prem infrastructure, system stability, and secure service delivery —  
+building things that **run long, stay stable, and fail safely**.
 
 ---
 
-## 🔧 Tech Stack
-- Linux (CentOS / Rocky / Ubuntu / SUSE)
+## 🔧 Tech Stack & Expertise
+
+**Operating Systems**
+- Linux (CentOS / Rocky Linux / Ubuntu / SUSE)
+- Legacy systems maintenance & OS migration
+
+**Virtualization & Infrastructure**
 - VMware vSphere / ESXi
-- Kubernetes (binary deploy / kubeadm)
+- Resource planning, VM lifecycle management
+- Backup, migration, and capacity optimization
+
+**Containers & Orchestration**
+- Kubernetes (binary deployment / kubeadm)
+- Cluster upgrade, troubleshooting (Node / Pod / etcd)
 - Docker / Docker Compose
-- Nginx / WAF
-- Vulnerability Scanning & Security Ops
-- Git / CI basics
+
+**Network & Security**
+- Nginx / Reverse Proxy / WAF
+- Vulnerability scanning & remediation
+- Security hardening, attack & defense drills
+- Log analysis and incident response support
+
+**DevOps Basics**
+- Git / GitHub
+- CI/CD fundamentals
+- Automation with Shell / Python / PowerShell
 
 ---
 
 ## 🚀 Featured Projects
-- OpenArk – xxxx（一句话说明你解决了什么问题）
-- xxx – xxxx
-- xxx – xxxx
+
+> Selected projects that reflect **real-world usage**, not demos.
+
+- **OpenArk**  
+  Production-oriented open-source project, driven by real operational needs.  
+  Built with a strong focus on stability, maintainability, and long-term evolution.
+
+- **Infrastructure Automation Scripts**  
+  Scripts for VM management, batch operations, backups, and system maintenance  
+  (Shell / PowerShell / Python).
+
+- **Kubernetes Operations Toolkit**  
+  Internal tools and documentation for cluster deployment, upgrade, and troubleshooting  
+  in production environments.
 
 ---
 
-## 📈 GitHub Stats
-（自动统计图）
+## 📈 GitHub Activity
+
+> Most of my work happens in **private repositories**.  
+> Public activity here reflects long-term consistency and engineering habits.
+
+<!-- GitHub Stats -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Devon-L&show_icons=true&hide_title=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Devon-L)
+
+---
+
+## 🧭 What I Care About
+
+- System stability over shiny tech
+- Clear architecture over over-engineering
+- Security as a default, not an afterthought
+- Documentation that engineers can actually follow
+
+---
+
+## 📫 Contact
+
+- GitHub: https://github.com/Devon-L
