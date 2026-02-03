@@ -66,7 +66,8 @@ building things that **run long, stay stable, and fail safely**.
 > Public activity here reflects long-term consistency and engineering habits.
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Devon-L&theme=dark" width="420" />
+  <img src="https://streak-stats.demolab.com?user=Devon-L&theme=dark&format=svg" />
+
 </p>
 
 
